@@ -1,5 +1,5 @@
 header {
-  background-color: #fbf3eb;
+  background-color: #ffddd3;
   border-bottom: 1px solid #e9bfbf;
 }
 header .bg-home div .navbar-brand {
@@ -24,8 +24,8 @@ header .bg-home div .navbar-collapse ul .nav-item:hover {
 main section .titulo__container, main .productos_container .titulo__container, main .servicios__container .titulo__container, main .hero__carousel__container .titulo__container {
   text-align: center;
   padding: 30px 0px;
-  color: #135300;
-  background-color: #fbf3eb;
+  color: #00222C;
+  background-color: #ffddd3;
   border: 0.5px solid #ffefde;
   border-radius: 5px;
   margin: 15px 0px;
@@ -50,8 +50,8 @@ main .hero__carousel__container .titulo__container h2 {
 main section .titulo__container, main .hero__carousel__container .titulo__container, main .servicios__container .titulo__container, main .productos_container .titulo__container {
   text-align: center;
   padding: 30px 0px;
-  color: #135300;
-  background-color: #fbf3eb;
+  color: #00222C;
+  background-color: #ffddd3;
   border: 0.5px solid #ffefde;
   border-radius: 5px;
   margin: 15px 0px;
@@ -90,11 +90,11 @@ main section .card__container div .card-body .button__servicios {
 }
 main section .card__container div .card-body .button__servicios:hover {
   text-decoration: underline;
-  color: #fbf3eb;
+  color: #ffddd3;
 }
 
 footer {
-  background-color: #fbf3eb;
+  background-color: #ffddd3;
   text-align: center;
   margin-top: 20px;
 }
@@ -105,8 +105,8 @@ footer div div .iconos__redes {
 main .hero__carousel__container .titulo__container, main .servicios__container .titulo__container, main .productos_container .titulo__container, main section .titulo__container {
   text-align: center;
   padding: 30px 0px;
-  color: #135300;
-  background-color: #fbf3eb;
+  color: #00222C;
+  background-color: #ffddd3;
   border: 0.5px solid #ffefde;
   border-radius: 5px;
   margin: 15px 0px;
